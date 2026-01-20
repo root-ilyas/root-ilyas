@@ -43,7 +43,6 @@ I learn by building labs, breaking systems in controlled environments, and docum
 
 
 
-## Quote
 [![Readme Quotes](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=dark)](https://github.com/hackelite01/github-readme-cyber-quotes)
 
 
